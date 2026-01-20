@@ -51,7 +51,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1718</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007654756</dc:source>
-		<meta property="se:word-count">58512</meta>
+		<meta property="se:word-count">57798</meta>
 		<meta property="se:reading-ease.flesch">69.21</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Manalive</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/g-k-chesterton_manalive</meta>
