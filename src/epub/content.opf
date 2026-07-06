@@ -55,7 +55,7 @@
 		<meta property="schema:wordCount">57798</meta>
 		<meta property="schema:educationalLevel">69.21</meta>
 		<link href="https://en.wikipedia.org/wiki/Manalive" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/g-k-chesterton_manalive" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">G. K. Chesterton</dc:creator>
