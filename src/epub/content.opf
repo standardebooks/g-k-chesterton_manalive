@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/g-k-chesterton/manalive</dc:identifier>
 		<dc:date>2025-11-14T18:29:42Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">An eccentric man brings chaos and happiness to a house of litigious lodgers.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An eccentric man brings chaos and happiness to a house of litigious lodgers.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;A man of unusually large stature and dexterity arrives at a boardinghouse on the wind—literally—while its unsuspecting lodgers look on in shock. The man, Innocent Smith, performs comic, eccentric, and dastardly acts which are examined and put to trial by the residents and renowned experts. Lawyers on both sides of the question of Innocent Smith’s guilt bring revelatory correspondence to the trial.&lt;/p&gt;
 			&lt;p&gt;In this fast-paced comedy of expansive proportions, &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;Chesterton&lt;/a&gt; examines the meaning of life through the lens of the religious idea of the “holy fool.” Innocent Smith defies all logic—but perhaps that’s just what his new friends need.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1718</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007654756</dc:source>
